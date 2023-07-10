@@ -19,7 +19,7 @@ Run the script by executing the fallowing command:
 
    ```bash
    ./script.sh
-
+   ```
 The script will create the necessary directory structure, generate 10 .txt files in the "important" directory, copy them to the "backup" directory, and then delete the "important" directory.
 
 Monitor the output in the terminal to ensure the process completes successfully.

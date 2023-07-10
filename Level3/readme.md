@@ -15,12 +15,10 @@ This Bash script automates the process of creating a directory structure, genera
    ```bash
    chmod +x script.sh
 
-
-
-
 Run the script by executing the fallowing command:
 
-./script.sh
+   ```bash
+   ./script.sh
 
 The script will create the necessary directory structure, generate 10 .txt files in the "important" directory, copy them to the "backup" directory, and then delete the "important" directory.
 
